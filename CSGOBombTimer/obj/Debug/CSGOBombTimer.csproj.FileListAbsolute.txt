@@ -1,0 +1,11 @@
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\bin\Debug\CSGOBombTimer.exe.config
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\bin\Debug\CSGOBombTimer.exe
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\bin\Debug\CSGOBombTimer.pdb
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.Form_Main.resources
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.Properties.Resources.resources
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.csproj.GenerateResource.cache
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.csproj.CoreCompileInputs.cache
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.exe
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.pdb
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.csproj.AssemblyReference.cache
+I:\Programmieren\C#\Projects\csgoBombTimer\CSGOBombTimer\CSGOBombTimer\obj\Debug\CSGOBombTimer.csproj.SuggestedBindingRedirects.cache
