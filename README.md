@@ -10,3 +10,7 @@ A seperate timer to keep track of the CSGO bomb ticking down.
 ## What does this do?
 
 This program is a simple counter that will tick down upon pressing the <kbd>F1</kbd> key. The window does not have to be in focus. Idealy this window is on a seperate monitor.
+
+## Installation
+
+Get your executable from [here](https://github.com/Smonman/CSGOBombTimer/releases). Start the program and leave it running while playing. Have fun!
